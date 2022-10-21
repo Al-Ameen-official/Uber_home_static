@@ -1,0 +1,397 @@
+
+
+body{
+  margin: 0px;
+}
+.main-div{
+    background-image: url("https://4brosgr.com/wp-content/uploads/2020/01/UberEats_About-1536x802.jpg");
+    width: 1379x;
+    height: 800px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px; 
+    padding-bottom: 0px; 
+    
+
+  }
+  .nav_sym{
+    
+    width: 20px;
+    height: 20px;
+    padding-left: 32px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+  }  
+  .menu-sym{
+    width: 30%;
+    float: left;
+    display: flex;
+    
+  }
+  .login-signup{
+    
+    width:20%;
+    float: right;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+  }
+  .login{
+    border: none;
+    background-color: rgb(26, 24, 24);
+    color:white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: opacity 0.4s;
+
+
+  }
+  .login:hover{
+    opacity: 0.7;
+
+  }
+  .login:active{
+    opacity: 0.6;
+  }
+  .signup{
+    border: none;
+    background-color: rgb(26, 24, 24);
+    color:white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 26px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    transition: opacity 0.4s;
+
+
+  }
+  .signup:hover{
+    opacity: 0.7;
+  }
+  .signup:active{
+    opacity: 0.6;
+  }
+  .h1-text{
+   
+    padding-top: 180px;
+    line-height: 64px;
+    padding-left: 25px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .uber-eats-text{
+    padding-top: 30px;
+
+  }
+  .search{
+    
+    padding-top: 10px;
+    padding-bottom: px;
+    width: 550px;
+    margin-left: 30px;
+    display: flex;
+    
+  }
+  .search-bar{
+    border: none;
+    background-color: white;
+    height: 50px;
+    width:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-size: 18px;
+    padding-left: 5px;;
+    border: none;
+    
+    resize: none;
+    outline: none;
+
+    
+    
+  }
+  .loc-sym{
+    padding-left: 15px;
+  }
+  .para{
+    margin-top: 19px;
+    margin-left:26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+  
+  }
+  .deliver{
+  
+    
+    background-color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 300px;
+    margin-left: 10px;
+  }
+  .loc-sym{
+    background-color: white;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    
+
+  
+  }
+  .Del-select{
+    padding-top: 20px;
+    padding-left:30px ;
+    padding-right: 30px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+
+
+  }
+  .op1{
+    height: 100px;
+  }
+  .find-button{
+    color: white;
+    background-color: black;
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 19px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+    
+    transition: opacity 0.4s;
+    
+  }
+  .find-button:hover{
+    opacity: 0.7;
+  }
+  .find-button:active{
+    opacity: 0.6;
+  }
+  .img1{
+    padding-left: 5px;
+    width: 407px;
+    height: 227px;
+    
+  }
+  .card-heading{
+    font-size: 28px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .card-boady{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .main-2{
+    margin-left: 35px;
+    margin-bottom: 45px;
+    padding-top: 30px;
+  }
+  .card{
+    float: left;
+    margin-right: 20px;
+  }
+  .card2{
+    float: left;
+    margin-right: 20px;
+  }
+  .us-map{
+    padding-left: 10px;
+    margin-left: 25px;
+    width: 1269px;
+    height: 360px;
+  }
+  .main-3-head{
+    margin-top: 30px;
+    padding: 4px;
+    
+
+
+  }
+  .main3-heading{
+
+    margin-left: 30px;
+    padding-top: 300px;
+    
+    font-size:36px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .line-city-1{
+    padding-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left:25;
+    margin-right: 180px;
+  }
+  .line-city-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left: 100px;
+    margin-right: 125px;
+  }
+  .line-city-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left: 200px;
+    margin-right: 250px;
+  }
+  .line-city-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    margin-left: 400px;
+    
+  }
+  .countries-head{
+    margin-top: 60px;
+    margin-left:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+
+
+  }
+  .country-list{
+    margin-top: 30px;      }
+  .country-line-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left:25;
+    margin-right: 180px;
+    float:left;
+
+  }
+  .country-line-2
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left: 100px;
+    margin-right: 125px;
+  }
+  .country-line-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    float: left;
+    margin-left: 200px;
+    margin-right: 250px;
+
+  }
+  .country-line-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    margin-left: 400px;
+  }
+  .hr-line{
+    margin-top: 30px;
+  }
+  .final-div{
+  margin-top: 150px;
+  margin-left: 25px;
+  }
+  .apple{
+    margin-top: 230px;
+    float:left;
+
+  }
+  .playstore{
+    margin-top: 230px;
+  }
+  .last-right{
+    float: right;
+    margin-top: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    margin-right: 100px;
+  }
+  .last-eright{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    margin-right: 100px;
+
+  }
+  .facebook{
+    width: 15px;
+    margin-left: 25px;
+    margin-top:80px;
+    float: left;
+    
+  }
+  .twitter{
+    float: left;
+    
+    margin-left: 25px;
+    margin-top:80px;
+
+  }
+  .twitt{
+    width:16px;
+  }
+  .insta{
+    float: left;
+    
+    margin-left: 25px;
+    margin-top:80px;
+
+  }
+  .instagram{
+    width:16px;
+  }
+  .footer1{
+    float:right;
+    margin-left: 260px;
+    margin-top: 60px;
+    margin-right: 45px;
+    
+  }
+  .link{
+    color:black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: text-decoraton 1s;
+    cursor: pointer;
+  }
+  .link:hover{
+    text-decoration: underline;
+  }
+  .footer2{
+    float: left;
+    margin-left: 450px;
+    margin-right: 15px;
+  }
